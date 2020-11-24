@@ -1,13 +1,13 @@
 {
   "name": "dev-json-server",
   "version": "1.0.0",
-  "description": "local json server for dev",
+  "description": "local json server for the TCM prototype",
   "main": "index.js",
   "scripts": {
     "json:server": "json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Marcelo Santos Ferreira",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.1"
