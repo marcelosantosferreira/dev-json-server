@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Marcelo Ferreira",
+      "email": "msferreira@gmail.com",
+      "idade": 37
+    },
+    {
+      "id": "2",
+      "nome": "Marcolino da Silva",
+      "email": "marcolinos@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "3",
+      "nome": "Adriano Gomes",
+      "email": "adrianog@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "4",
+      "nome": "karina",
+      "email": "karinaa@gmail.com",
+      "age": 22
+    }
+  ],
+  "contatos": [
+    {
+      "nome": "Marcelo Ferreira",
+      "celular": "1236530001",
+      "id": 1
+    },
+    {
+      "nome": "Manoel Francisco",
+      "celular": "1236554747",
+      "id": 2
+    }
+  ]
+}
